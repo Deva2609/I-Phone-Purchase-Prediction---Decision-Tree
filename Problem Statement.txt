@@ -1,0 +1,7 @@
+Iphone Purchases are getting increased day by day and many stores wants to predict whether a customer will purchase an Iphone 
+from thier store given their gender, age and salary.
+
+Prepare a proper Machine Learning Algorithm with proper step by step approach.
+1. Exploratory Data Analysis
+2. Predictive Model
+3. Report of the Dashboard in Tableau
